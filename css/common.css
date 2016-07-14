@@ -21,6 +21,9 @@ a:hover, a:focus{
 .mb10{
 	margin-bottom:10px;
 }
+.bold{
+	font-weight:bold;
+}
 /* //all */
 
 /* Left */
@@ -134,5 +137,16 @@ a:hover, a:focus{
 	font-weight: bold;	
 	font-size:23px;
 	margin-bottom:12px;
+}
+.box{
+	width:98%;
+	background:#f8f8f8;
+	border:1px solid #cccccc;
+	padding:1%;
+	border-radius: 5px;
+	margin-bottom:20px;
+}
+.box p{
+	font-size:13px;
 }
 /* //Right */
